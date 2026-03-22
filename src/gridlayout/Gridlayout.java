@@ -1,3 +1,5 @@
+//Sprint 2 - JPanel Creation and Background Colors
+//Sprint 2 - RED GREEN BLUE panels added
 package gridlayout;
 
 import javax.swing.*;
