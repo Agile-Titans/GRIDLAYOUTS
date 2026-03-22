@@ -1,3 +1,6 @@
+//Sprint 3 - Final Integration and Testing
+//Sprint 3 - All panels added to container and JFrame
+
 package gridlayout;
 
 import javax.swing.*;
