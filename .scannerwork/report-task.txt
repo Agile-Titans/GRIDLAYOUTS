@@ -1,0 +1,6 @@
+projectKey=GRIDLAYOUTS
+serverUrl=https://interferometric-jerrod-coeternally.ngrok-free.dev
+serverVersion=26.2.0.119303
+dashboardUrl=https://interferometric-jerrod-coeternally.ngrok-free.dev/dashboard?id=GRIDLAYOUTS
+ceTaskId=c4599522-ca1a-465e-882f-ee6169cbd96e
+ceTaskUrl=https://interferometric-jerrod-coeternally.ngrok-free.dev/api/ce/task?id=c4599522-ca1a-465e-882f-ee6169cbd96e
